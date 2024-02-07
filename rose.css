@@ -133,6 +133,11 @@ body {
   background-color: #D70040;
   filter: blur(10vmin);
 }
+h1{
+    color:#D70040;
+    justify-content: center;
+    display: flex;
+}
 .flower__leaf {
   position: absolute;
   bottom: 0;
